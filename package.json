@@ -1,6 +1,7 @@
 {
   "name": "memory-card",
   "private": true,
+  "homepage": "https://github.com/Jeancoman/memory-card",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
